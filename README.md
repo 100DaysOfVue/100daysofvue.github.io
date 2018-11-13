@@ -2,7 +2,7 @@
 
 Webpage &amp; Indexer of #100DaysOfVue where can be found all projects made.
 
-This is a project inspired by the initiave of a friend [@ChinuxParibus](https://github.com/ChinuxParibus) and his [ThousandDaysOfVue](https://github.com/thousanddaysofvue/thousanddaysofvue.github.io).
+This is a project inspired by the initiative of a friend [@ChinuxParibus](https://github.com/ChinuxParibus) and his [ThousandDaysOfVue](https://github.com/thousanddaysofvue/thousanddaysofvue.github.io).
 
 ## Conditions
 
