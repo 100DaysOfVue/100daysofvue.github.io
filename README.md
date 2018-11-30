@@ -20,7 +20,7 @@ All projects listed here are optional, so you can feel free to get rid of some o
 
 + [ ] #1 Paypal Calculator PWA
 + [ ] #2 Functional Bingo 
-+ [ ] #3 Tic-Tac-Toe
++ [x] [#3 Tic-Tac-Toe](https://github.com/100DaysOfVue/tic-tac-toe)
 + [ ] #4 Markdown Multi-editor
 + [ ] #5 Calendar Schedule
 + [ ] #6 JSON as HTML forms
