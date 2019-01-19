@@ -36,7 +36,7 @@ All projects listed here are optional, so you can feel free to get rid of some o
 + [ ] #16 JSON UI
 + [ ] #17 Github Analytics Client
 + [ ] #18 Wikipedia Search Engine
-+ [ ] #19 Show The Local Weather
++ [x] #19 [Show The Local Weather](https://100daysofvue-show-local-weather.netlify.com)
 + [ ] #20 Random Quote Machine
 + [ ] #21 Coelho.js
 + [ ] #22 Reddit Clone
